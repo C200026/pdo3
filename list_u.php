@@ -77,7 +77,7 @@ try{
     </td>
     <td>
         /*  (2)ここにラジオボタン表示処理を追加して下さい  */
-        <input type=”radio” name="edit">
+        <input type="radio" name="edit">編集
     </td>
     </tr>
     <?php endforeach; ?>
